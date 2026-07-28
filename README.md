@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/belezzza">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=belezzza&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
 </p>
 
@@ -40,12 +40,12 @@
 ### 📊 GitHub İstatistikleri & Aktiviteler
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belezzza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belezzza&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belezzza&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
