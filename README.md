@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Merhaba%2C+Ben+Cihan!+👋;Yazılım+Mühendisliği+Öğrencisi;C%2B%2B%2C+Python+ve+Rust+Geliştirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Merhaba%2C+Ben+Cihan!+👋;Yaz%C4%B1l%C4%B1m+M%C3%BChandisli%C4%9Fi+%C3%96%C4%9Frencisi;C%2B%2B%2C+Python+ve+Rust+Geli%C5%9Ftirici" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -40,12 +40,12 @@
 ### 📊 GitHub İstatistikleri & Aktiviteler
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belezzza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belezzza&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=belezzza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=belezzza&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belezzza&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belezzza&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
@@ -61,10 +61,7 @@
 ### 📬 İletişim & Sosyal Medya
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eposta@adresiniz.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/belezzza">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
